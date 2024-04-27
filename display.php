@@ -9,10 +9,6 @@
     box-sizing: border-box;
     margin: 0px;
 }
-img[alt="www.000webhost.com"]{
-    
-    display:none;
-}
 .container {
     width: 100%;
     max-width: 650px;
